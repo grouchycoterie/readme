@@ -1,6 +1,6 @@
 Hi, Welcome to Indeed University. IU is an incredible opportunity to jumpstart your career at Indeed. I am so excited to have you here.
 
-This document is to improve our working relationship. This is my first experience as manager. Much of this is new to me. My hope is that this document will help give you an idea of what to expect with me as your IU lead.
+This document is to improve our working relationship. This is my first experience as a manager. Much of this is new to me. My hope is that this document will help give you an idea of what to expect with me as your IU lead.
 
 # My Job(s)
 As an IU Lead, my goal is for you to grow professionally over the course of IU.
