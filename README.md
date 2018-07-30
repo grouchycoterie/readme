@@ -14,7 +14,7 @@ Here are some of my responsibilities:
 # Our Average Week
 
 ## 1:1’s
-If you are in my cohort or later, on a team I mentor, then every week we are going to have at least one 30 min 1:1. Our 1:1's are for your benefit, not for status updates or me telling you what to do.
+If you are in my cohort or later, on a team I mentor, then every week we are going to have at least one 30 min 1:1. Our 1:1's are for your benefit, not for status updates or me telling you what to do. For 1:1 and status updates we will be using [15five](https://www.15five.com/).
 
 ## Stand Up
 Stand ups should be something you want to attend! I’ve participated in many stand ups that are mindless status updates. Let’s try and keep it interesting for everyone in attendance, otherwise let’s cancel.
