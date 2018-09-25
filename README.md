@@ -12,27 +12,27 @@ Product Manager
 # Communication
 I don’t believe in having quick response times. I’d rather have less communication of higher quality.
 
-*Email:* I prefer emails over meetings. My email agreement:
-I will…
+**Email:** I prefer emails over meetings. My email agreement:
+*I will...*
 1. Read your email
 2. Respond with clear action items for me and you
 
-If you ...
+*If you...*
 1. Have a clear subject.
 2. Have a clear request. 
 3. Provide enough context so I don’t need to ask follow up questions.
 
-*Chat:* I am sometimes responsive to chats. I check chat as frequently as email and I dedicate more time to email than I do chats.
+**Chat:** I am sometimes responsive to chats. I check chat as frequently as email and I dedicate more time to email than I do chats.
 
-*Comments on Jira Issues:* Must use my username (@magan) in the comment or it's unlikely I will see the notification. 
+**Comments on Jira Issues:** Must use my username (@magan) in the comment or it's unlikely I will see the notification. 
 
-*In Person:* I understand some conversations are sensitive. Those conversations should happen in meetings.
+**In Person:** I understand some conversations are sensitive. Those conversations should happen in meetings.
 
-*Meetings:* I keep 99% of my calendar events public and default to allow-modify by guests; that means you can move the meeting without asking me. Please provide a clear agenda.
+**Meetings:** I keep 99% of my calendar events public and default to allow-modify by guests; that means you can move the meeting without asking me. Please provide a clear agenda.
 
-*Outside of Work:* I make every effort to shutdown after 5pm from work. I have my phone number on my personal wiki page for emergencies. I can't guarantee I check anything else.
+**Outside of Work:** I make every effort to shutdown after 5pm from work. I have my phone number on my personal wiki page for emergencies. I can't guarantee I check anything else.
 
-*At my desk:* I am a strong believer in being focused. I ask that you respect when I am trying to be focused and find times to chat that don’t interrupt me. I understand that this may mean having to wait a bit longer for response or go digging for information. My promise to you is to extend you the same courtesy. Let me know if something is hard to find I will make a point to make it easier to find.
+**At my desk:** I am a strong believer in being focused. I ask that you respect when I am trying to be focused and find times to chat that don’t interrupt me. I understand that this may mean having to wait a bit longer for response or go digging for information. My promise to you is to extend you the same courtesy. Let me know if something is hard to find I will make a point to make it easier to find.
 
 # Our Average Week
 
