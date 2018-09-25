@@ -1,68 +1,80 @@
-Hi, Welcome to Indeed University. IU is an incredible opportunity to jumpstart your career at Indeed. I am so excited to have you here.
-
-This document is to improve our working relationship. This is my first experience as a manager. Much of this is new to me. My hope is that this document will help give you an idea of what to expect with me as your IU lead.
+Hi, this document is to improve our working relationship. In Q3 of 2018 I was an Indeed University lead. I have been at Indeed 3+ years. I am very excited to join the Platform team and execute on the vision.
 
 # My Job(s)
-As an IU Lead, my goal is for you to grow professionally over the course of IU.
+Product Manager
+* Ensure the team is focused on the most impactful work
+* Set meaningful goals that improve employer experience to get people hired
+* Create alignment with other product teams to achieve our goals
+* Identify and simplify implementation requirements
+* Improve the working relationship of the team
+* Mentor other PM’s and Engineers on the build-measure-learn process
 
-Here are some of my responsibilities:
-* Be there for you
-* Teach you how to identify underlying user problems
-* Teach you how to design, build, and measure products
-* Learn experimentation to test our assumptions 
+# Communication
+I don’t believe in having quick response times. I’d rather have less communication of higher quality.
+
+*Email:* I prefer emails over meetings. My email agreement:
+I will…
+1. Read your email
+2. Respond with clear action items for me and you
+
+If you ...
+1. Have a clear subject.
+2. Have a clear request. 
+3. Provide enough context so I don’t need to ask follow up questions.
+
+*Chat:* I am sometimes responsive to chats. I check chat as frequently as email and I dedicate more time to email than I do chats.
+
+*Comments on Jira Issues:* Must use my username (@magan) in the comment or it's unlikely I will see the notification. 
+
+*In Person:* I understand some conversations are sensitive. Those conversations should happen in meetings.
+
+*Meetings:* I keep 99% of my calendar events public and default to allow-modify by guests; that means you can move the meeting without asking me. Please provide a clear agenda.
+
+*Outside of Work:* I make every effort to shutdown after 5pm from work. I have my phone number on my personal wiki page for emergencies. I can't guarantee I check anything else.
+
+*At my desk:* I am a strong believer in being focused. I ask that you respect when I am trying to be focused and find times to chat that don’t interrupt me. I understand that this may mean having to wait a bit longer for response or go digging for information. My promise to you is to extend you the same courtesy. Let me know if something is hard to find I will make a point to make it easier to find.
 
 # Our Average Week
 
 ## 1:1’s
-If you are in my cohort or later, on a team I mentor, then every week we are going to have at least one 30 min 1:1. Our 1:1's are for your benefit, not for status updates or me telling you what to do. For 1:1 and status updates we will be using [15five](https://www.15five.com/).
+I plan to schedule 1:1 time with everyone that I have a meaningful working relationship. This may not be every week.
 
 ## Stand Up
 Stand ups should be something you want to attend! I’ve participated in many stand ups that are mindless status updates. Let’s try and keep it interesting for everyone in attendance, otherwise let’s cancel.
 
-# Communication
+## Planning Meetings
+My goal is to have the minimum planning meetings necessary. I strongly encourage people to meet in small groups to make decisions instead of large groups. People’s time is extremely valuable and I want to respect that.
 
-*Slack:* I prefer slack to most types of communication.
-
-*Email:* This is a better medium for longer-form communication.
-
-*Comments on Jira Issues:* Must us my username (@magan) in the comment or it's unlikely I will see the notification. 
-
-*In Person:* There are many types of conversations done better in person. When in doubt in-person is your best bet.
-
-*Meetings:* I keep 99% of my calendar events public and default to allow-modify by guests; that means you can move the meeting without asking me.
-
-*Outside of Work:* I make every effort to disconnect from work. Make sure a chat is clearly marked urgent outside of work hours if you need a quick reply.
+## Emails
+I plan to use email as way of communicating with the team instead of meetings. I find most meetings are to save one person time at the cost of everyone else. I strongly encourage emails, documents, or agendas, instead of unstructured, “let’s discuss” meetings.
 
 # Work Hours
-I'm usually arrive to work around 8:30 am and stay until up to 5:00-5:30 pm every day. I take lunch at 12pm-1pm every day, feel free to ask me to grab lunch if you’d like to chat. I stick to this schedule whenever possible.
-
-# Coaching
-During IU I will be coaching you on how to build products, collaborate with others, and measure the user impact of your products.
+I usually arrive to work around 8:30am and stay until up to 5:00pm every day. I take lunch at 12pm-12:30pm every day, than take a break.
 
 # How I Can Help You
+
+## Provide the Why
+I am strong believer in that you should feel strongly about the work you are doing. If it’s unclear to you why something is important let me know. I failed in providing you the proper context. If the purpose of anything about the work you are doing, the goals, the mission or a meeting is unclear to you let me know.
+
+## Help you Simplify
+I believe strongly in the power of simplicity. You can accomplish more and better in less time if you actively simplify the requirements. At Indeed I have seen over and over again how a simple solution out performs a more complex one.
+
+## Measured Value
+At Indeed we often say “If you can’t measure it, you can’t improve it.” I can help you identify, what to measure, how to measure it, and provide help measuring the value generated by your work.
 
 ## Empathy
 Do my best to listen and understand your perspective. I am working on people not having to repeat themselves to get me to hear their idea/concern/perspective.
 
-## Be in Your Corner
-My favorite managers have "had my back" so to speak. It means I'll trust you to make your best judgments and be there for you if they don't work out. It doesn't mean I will always agree with you or approve your choices, but I'll trust that they were made with good intent.
-
-## Resolve what you can't
-I'll always lean towards letting you resolve your own issues, but when they get too much or seem unsolvable I am always here to help.
-
-## Improve Self-Awareness
-It's really hard to see yourself as you are. I promise to help you see what you are great at, as well as, what you could improve in.
-
 # How You Can Help Me
 
 ## Help Me, Help You
-I can't read minds, at least not yet. I hear some managers have that magical ability. If something is wrong in your world I can't make it better if I am not told.
+I can't read minds, at least not yet. If something is wrong in your world I can't make it better if I am not told.
 
-## Tell Me to Hand Over the Controls
-It's difficult to go from being a contributor to enabling other contributors. Tell me if I am giving you too much direction. You should feel like you're in the driver seat, not a passenger.
+## Ask Questions
+Feel free to follow up with me over email or in person with questions about anything. If I have them I will provide them.
 
-## Give me feedback, even when it doesn’t feel work related
-Let me know if I am pronouncing your name incorrectly, or not using the correct pronouns, or I said something you feel is insensitive, in addition to work related feedback.
+## Own What You Work On
+I’d rather you not start working on something if you don’t want to own it to completion. We all take on work we feel obligated to do. I don’t want you to do that on my team. If you think the work is pointless or don’t care let me know.
 
 # My Philosophy of Work
 
@@ -79,5 +91,6 @@ The Pareto Principle or 80/20 rule, suggest that there is a limited amount of wo
 In my experience, it's better to start on something half-baked than it is to wait. The counterbalance to this philosophy is to be aware of the down-side risk. If you don’t act negligently, people, users included, are extremely forgiving.
 
 ## Strong Opinions, Weakly Held
-We hired you because we think you can contribute to our mission to help people get jobs. That means we want you to have opinions, but we also want you to be self-aware of your assumptions.
+We hired you because we think you can contribute to our mission to help people get jobs. That means we want you to have opinions, but we also want you to be self-aware of your assumptions and biases.
+
 
