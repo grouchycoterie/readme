@@ -10,19 +10,13 @@ Product Manager
 * Mentor other PM’s and Engineers on the build-measure-learn process
 
 # Communication
-I don’t believe in having quick response times. I’d rather have less communication of higher quality.
 
 **Email:** I prefer emails over meetings. My email agreement:
 *I will...*
 1. Read your email
 2. Respond with clear action items for me and you
 
-*If you...*
-1. Have a clear subject.
-2. Have a clear request. 
-3. Provide enough context so I don’t need to ask follow up questions.
-
-**Chat:** I am sometimes responsive to chats. I check chat as frequently as email and I dedicate more time to email than I do chats.
+**Chat:** I prefer slack groups to one-on-one chats since its spreads general knowledge.
 
 **Comments on Jira Issues:** Must use my username (@magan) in the comment or it's unlikely I will see the notification. 
 
@@ -32,7 +26,7 @@ I don’t believe in having quick response times. I’d rather have less communi
 
 **Outside of Work:** I make every effort to shutdown after 5pm from work. I have my phone number on my personal wiki page for emergencies. I can't guarantee I check anything else.
 
-**At my desk:** I am a strong believer in being focused. I ask that you respect when I am trying to be focused and find times to chat that don’t interrupt me. I understand that this may mean having to wait a bit longer for response or go digging for information. My promise to you is to extend you the same courtesy. Let me know if something is hard to find I will make a point to make it easier to find.
+**At my desk:** I am a strong believer in being focused. However, my goal is to be helpful to you so feel free to interupt me but I may need a moment to finish of what I was focusing on.
 
 # Our Average Week
 
@@ -43,13 +37,13 @@ I plan to schedule 1:1 time with everyone that I have a meaningful working relat
 Stand ups should be something you want to attend! I’ve participated in many stand ups that are mindless status updates. Let’s try and keep it interesting for everyone in attendance, otherwise let’s cancel.
 
 ## Planning Meetings
-My goal is to have the minimum planning meetings necessary. I strongly encourage people to meet in small groups to make decisions instead of large groups. People’s time is extremely valuable and I want to respect that.
+My goal is to have the minimum amount of planning meetings necessary. I strongly encourage people to meet in small groups to make decisions instead of large groups. People’s time is extremely valuable and I want to respect that.
 
 ## Emails
 I plan to use email as way of communicating with the team instead of meetings. I find most meetings are to save one person time at the cost of everyone else. I strongly encourage emails, documents, or agendas, instead of unstructured, “let’s discuss” meetings.
 
 # Work Hours
-I usually arrive to work around 8:30am and stay until up to 5:00pm every day. I take lunch at 12pm-12:30pm every day, than take a break.
+I usually arrive to work around 8:30am and stay until up to 5pm every day. I take lunch at 12pm-12:30pm every day, than take a break.
 
 # How I Can Help You
 
@@ -79,10 +73,10 @@ I’d rather you not start working on something if you don’t want to own it to
 # My Philosophy of Work
 
 ## Leadership is Earned, Not Given
-Leaders are people who others want to follow. No matter your title or role there are varying degrees of leadership in different domains. If you want to be a leader, then find ways to earn that responsibility from your co-workers, in all directions.
+Leaders are people who others want to follow. No matter your title or role there is always opportunity for leadership. If you want to be a leader, then find ways to earn that responsibility from your co-workers, in all directions.
 
 ## Failure is the Best Teacher
-If you aren't failing as person, team or product than you are pushing the limits of what you can do. It's only through pushing the current limits that you can grow.
+If you aren't failing as person, team or product than you are pushing the limits of what you can do. It's only through pushing your current limits that you can grow.
 
 ## Less but Better
 The Pareto Principle or 80/20 rule, suggest that there is a limited amount of work that will get you the majority of the benefit. It's my experience that teams with too many "priorities" often under deliver on the few things that have the highest impact. 
@@ -91,6 +85,5 @@ The Pareto Principle or 80/20 rule, suggest that there is a limited amount of wo
 In my experience, it's better to start on something half-baked than it is to wait. The counterbalance to this philosophy is to be aware of the down-side risk. If you don’t act negligently, people, users included, are extremely forgiving.
 
 ## Strong Opinions, Weakly Held
-We hired you because we think you can contribute to our mission to help people get jobs. That means we want you to have opinions, but we also want you to be self-aware of your assumptions and biases.
-
+It's great to have strong opinions, but we also need to be self-aware of our assumptions and biases. Also, don't be that person who always needs people to do it their way. Its impossible to be 100% right all the time.
 
