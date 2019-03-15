@@ -48,7 +48,7 @@ I usually arrive to work around 8:30am and stay until up to 5pm every day. I tak
 # How I Can Help You
 
 ## Provide the Why
-I am strong believer in that you should feel strongly about the work you are doing. If it’s unclear to you why something is important let me know. I failed in providing you the proper context. If the purpose of anything about the work you are doing, the goals, the mission or a meeting is unclear to you let me know.
+You should feel strongly about the work you are doing. If it’s unclear to you why something is important let me know. I failed in providing you the proper context. If the purpose of anything about the work you are doing, the goals, the mission or a meeting is unclear to you let me know.
 
 ## Help you Simplify
 I believe strongly in the power of simplicity. You can accomplish more and better in less time if you actively simplify the requirements. At Indeed I have seen over and over again how a simple solution out performs a more complex one.
